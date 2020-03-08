@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string translatable="false" name="pairsum_leaderboard_id">CgkIpsqD1uUSEAIQAA</string>
+    <string translatable="false" name="pairsum_achievement_id1">CgkIpsqD1uUSEAIQAQ</string>
+    <string translatable="false" name="pairsum_achievement_id2">CgkIpsqD1uUSEAIQAg</string>
+    <string translatable="false" name="pairsum_achievement_id3">CgkIpsqD1uUSEAIQAw</string>
+    <string translatable="false" name="pairsum_achievement_id4">CgkIpsqD1uUSEAIQBA</string>
+    <string translatable="false" name="pairsum_achievement_id5">CgkIpsqD1uUSEAIQBQ</string>
+    <string translatable="false" name="pairsum_achievement_id6">CgkIpsqD1uUSEAIQBg</string>
+    <string translatable="false" name="pairsum_achievement_id7">CgkIpsqD1uUSEAIQBw</string>
+    <string translatable="false" name="pairsum_achievement_id8">CgkIpsqD1uUSEAIQCA</string>
+    <string translatable="false" name="pairsum_achievement_id9">CgkIpsqD1uUSEAIQCQ</string>
+    <string translatable="false" name="pairsum_achievement_id10">CgkIpsqD1uUSEAIQCg</string>
+    <string translatable="false" name="pairsum_achievement_id11">CgkIpsqD1uUSEAIQCw</string>
+    <string translatable="false" name="pairsum_achievement_id12">CgkIpsqD1uUSEAIQDA</string>
+    <!-- 474508819355947 PROD GAME -->
+    <!-- 474578939348935 TEST GAME -->
+    <!-- 1572472726315106 PROD APP -->
+    <string translatable="false" name="app_id_fb">474578939348935</string>
+    <string translatable="false" name="app_id_gp">645767685414</string>
+    <string translatable="false" name="youtube_id">6yvTIlSYeeE</string>
+
+
+</resources>
